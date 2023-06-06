@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there, I'm Trustin.
+## A Software Developer, and a Data Engineer.
+
+## Let's connect
+- [Linkedin](https://www.linkedin.com/in/trustincavi)
+- [Email](mailto:trustincavi@gmail.com)
+- [My Website](https://ttrustin.com)
+
+
 
 <!--
 **trustincavi/trustincavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
